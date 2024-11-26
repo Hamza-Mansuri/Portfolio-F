@@ -870,3 +870,18 @@ ul li i {
         margin-bottom: 10px;
     }
 }
+
+/* button {
+    background-color: #00abf0;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+button:hover {
+    background-color: #081629;
+    transform: scale(1.1);
+} */
