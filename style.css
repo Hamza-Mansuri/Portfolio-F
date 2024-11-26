@@ -885,3 +885,12 @@ button:hover {
     background-color: #081629;
     transform: scale(1.1);
 } */
+
+/* Navbar image styles */
+.navbar-img {
+    width: 50px; /* Increase the size of the image */
+    height: 50px; /* Increase the size of the image */
+    border-radius: 50%; /* Keeps the image round */
+    object-fit: cover; /* Ensures the image fills the circle */
+    margin-right: 10px; /* Optional: space between the image and text */
+}
