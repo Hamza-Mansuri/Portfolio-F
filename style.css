@@ -10,6 +10,8 @@ font-family: 'Poppins', sans-serif;
 body {
 background:#081629;
 color: #ededed;
+
+padding-top: 80px;
 }
 
 .header {
@@ -22,7 +24,7 @@ color: #ededed;
     width: 100%;
     padding: 20px 10%;
 
-    background: transparent;
+    background: #081b29;
 
     display: flex;
 
